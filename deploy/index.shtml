@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carly Merwitz Deployment Page</title>
+</head>
+
+<body>
+    <h1>Sample Page for Deployment on Render</h1>
+    <strong>Name:</strong>Carly Merwitz
+    <strong>GitHub Location:</strong><a href = "https://github.com/cmerwitz/cmerwitzTERP.git">https://github.com/cmerwitz/cmerwitzTERP.git</a>
+    <strong>Render Location:</strong><a href = "https://cmerwitzterp.onrender.com/">https://cmerwitzterp.onrender.com/</a>
+    <strong>Clearing Database Movies:</strong><a href = "https://cmerwitzterp.onrender.com/clearCollection">https://cmerwitzterp.onrender.com/clearCollection</a>
+    <strong>Inserting Movies:</strong><a href = "https://cmerwitzterp.onrender.com/insertMovies">https://cmerwitzterp.onrender.com/insertMovies</a>
+    <strong>List Movies:</strong><a href = "https://cmerwitzterp.onrender.com/listMovies">https://cmerwitzterp.onrender.com/listMovies</a>
+</body>
